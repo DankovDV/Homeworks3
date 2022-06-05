@@ -21,7 +21,7 @@ margin: 0 auto;
 }
 
 li {
-    list-style: none;    
+    list-style: none;
 }
 
 .nav-a:hover {
@@ -30,7 +30,7 @@ li {
 
 .navigation a {
     text-decoration: underline;
-    font-family: PlayfairDisplay;
+    font-family: 'Playfair Display', serif;
     font-size: 14px;
     font-weight: 400;
     line-height: 24px;
@@ -51,17 +51,18 @@ justify-content: space-between;
 
 .lifestyle {
     margin-top: 32px;
-    font-family: PlayfairDisplay;
+    font-family: 'Playfair Display', serif;
     font-size: 14px;
-    font-weight: 300;
+    font-weight: 400;
     text-align: left;
     color: #b4ad9e;
     text-transform: uppercase;
+    opacity: 0.8;
 }
 
 .header {
     margin-top: 28px;
-    font-family: PlayfairDisplay;
+    font-family: 'Playfair Display', serif;
     font-size: 30px;
     font-weight: 400;
     line-height: normal;
@@ -71,7 +72,7 @@ justify-content: space-between;
 
 .text {
     margin-top: 34px;
-    font-family: PlayfairDisplay;
+    font-family: 'Playfair Display', serif;
     font-size: 14px;
     font-weight: 400;
     line-height: 24px;
@@ -98,7 +99,7 @@ justify-content: space-between;
     border: 1px solid #626262;
     background-color: #fff;
     text-transform: uppercase;
-    font-family: PlayfairDisplay;
+    font-family: 'Playfair Display', serif;
     font-size: 20px;
     font-weight: 400;
     color: #626262;
